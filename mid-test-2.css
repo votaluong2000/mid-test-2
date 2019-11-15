@@ -1,0 +1,73 @@
+.navbar h3{
+	color: #ebc90c;
+}
+.carousel-caption button.mg{
+	background: #ebcf36;
+}
+.carousel-inner button.btn:hover{
+	color: white;
+	background: #ebcf36;
+}
+.carousel-inner img{
+	width: 100%;
+	height: 450PX;
+}
+.card-img-top{
+	height: 300px;
+}
+.card-body a.btn:hover{
+	color: #f5d522;
+	background: white;
+}
+.card-body p{
+	opacity: 0.5;
+}
+.fa-home{
+	color: #d1d0cd;
+}
+.fa-file-upload{
+	color: #d1d0cd;
+}
+.fa-wrench{
+	color: #d1d0cd;
+}
+.fa-folder-open{
+	color: #d1d0cd;
+}
+.fa-home, .fa-file-upload, .fa-wrench, .fa-folder-open{
+	font-size: 5em;
+	padding: 1rem;
+}
+.ic{
+	padding: 5rem;
+	background: #f7f7f5
+}
+.ic2{
+	background: #ebebe6;
+}
+.carousel-caption button.mg2{
+	background: #918f89;
+	color: white;
+}
+.carousel-caption button.mg2:hover{
+	background: #ebcf36;
+	color: #918f89;
+}
+.carousel-caption button.mg1{
+	background: #ebcf36;
+	color: white;
+}
+.carousel-caption button.mg1:hover{
+	background: #918f89;
+	color: #ebcf36;
+}
+.carousel-caption p{
+	font-size: 120%;
+}
+.tet p{
+	opacity: 0.5;
+	font-size: 120%;
+}
+.tt{
+	opacity: 0.7;
+}
